@@ -1,8 +1,9 @@
-# electron-react-antdesign
-Elecktron with react js
  <p align="center">
     <img width="230" src="./src/logo.png"/>
 </p>
+# electron-react-antdesign
+Elecktron with react js
+
 ## Install 
 > npm install
 ## Run 
