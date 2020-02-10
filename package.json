@@ -5,7 +5,7 @@
   "description": "Desktop with react js",
   "devDependencies": {
     "electron": "^2.0.8",
-    "foreman": "^2.0.0",
+    "foreman": "^3.0.1",
     "react-scripts": "0.8.5"
   },
   "dependencies": {
