@@ -4,7 +4,7 @@
   "private": false,
   "description": "Desktop with react js",
   "devDependencies": {
-    "electron": "^2.0.8",
+    "electron": "^9.4.0",
     "foreman": "^3.0.1",
     "react-scripts": "0.8.5"
   },
