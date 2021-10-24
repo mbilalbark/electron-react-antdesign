@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "antd": "^3.26.20",
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "electron-json-storage": "^4.3.0",
     "electron-packager": "^12.1.0",
     "moment": "^2.29.1",
