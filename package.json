@@ -13,7 +13,7 @@
     "axios": "^0.21.1",
     "electron-json-storage": "^4.3.0",
     "electron-packager": "^12.1.0",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-font-face": "^0.2.1",
